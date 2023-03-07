@@ -29,7 +29,7 @@ function Nav(props) {
         <div className="collapse navbar-collapse" id="navbarContent">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/deploy-test-shopping-cart">
                 Home
               </Link>{" "}
             </li>

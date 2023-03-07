@@ -176,7 +176,7 @@ function App() {
         <Nav getNumCartItems={getNumCartItems} />
         <Routes>
           <Route
-            path="/"
+            path="/deploy-test-shopping-cart"
             exact
             element={
               <Home
